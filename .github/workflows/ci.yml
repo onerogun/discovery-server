@@ -1,4 +1,4 @@
-name: AUTH server CI
+name: discovery server CI
 
 on:
   push:
